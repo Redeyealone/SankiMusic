@@ -5,7 +5,7 @@
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/XdityaHalder/SankiMusic)
+[![Deploy To Heroku](https://telegra.ph/file/dc02c6f78a772e9a73401.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/XdityaHalder/SankiMusic)
 
 
 ### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐅𝐫𝐨𝐦 𝐇𝐞𝐫𝐞
@@ -14,7 +14,7 @@
 
 
 ### 𝐎𝐰𝐧𝐞𝐫 (𝐑𝐞𝐛𝐮𝐢𝐥𝐝 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐃𝐞𝐬𝐢𝐠𝐧) 𝐎𝐟 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐭𝐢𝐨𝐫𝐲
-[![Aditya Halder](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/AdityaHalder)
+[![redeye_alone](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/AdityaHalder)
 
 
 #### credit goes to yukki music support 
