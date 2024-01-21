@@ -1,6 +1,6 @@
 ### Telegram music bot with special features 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://graph.org/file/abd9badac422b27b5045e.png"></a></p>
+<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/5cc94bb726bfdd569303c.jpg"></a></p>
 
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮
@@ -17,7 +17,7 @@
 [![Aditya Halder](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/AdityaHalder)
 
 
-#### 🥀 𝐃𝐞𝐚𝐫 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 ✅ 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐄𝐝𝐢𝐭 𝐚𝐧𝐝 𝐌𝐨𝐝𝐢𝐟𝐲 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨 𝐀𝐬 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 🌿 𝐁𝐮𝐭 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐮𝐬𝐭 𝐆𝐢𝐯𝐞 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 ✨ ...
+#### credit goes to yukki music support 
 
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
